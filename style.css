@@ -59,7 +59,7 @@ main {
 
 section {
   min-height: 80vh;
-  max-height: 90vh;
+  max-height: 95vh;
   margin: 10rem 0;
 }
 
@@ -224,7 +224,7 @@ button {
 .carousel-slide {
   min-width: 100%;
   min-height: 450px;
-  max-height: 600px;
+  max-height: 550px;
   display: flex;
   justify-content: center;
   overflow: hidden;
