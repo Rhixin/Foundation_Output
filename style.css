@@ -60,7 +60,8 @@ main {
 section {
   min-height: 80vh;
   max-height: 95vh;
-  margin: 10rem 0;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
 }
 
 header {
